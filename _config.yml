@@ -29,9 +29,10 @@ author:
   employer         : "Stanford University"
   uri              : # URL
   email            : "renancyoshida@gmail.com" 
+  cv                : "https://renancyoshida.github.io/files/resume_renan.pdf"
+
 
   # Academic websites
-  cv: "https://renancyoshida.github.io/files/resume_renan.pdf"
   googlescholar    : "https://scholar.google.com/citations?user=mxHq4e0AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
