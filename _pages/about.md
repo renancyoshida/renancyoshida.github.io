@@ -9,15 +9,6 @@ redirect_from:
 
 Hi! I am a PhD Candidate in Economics at Stanford University. I will be on the job market for the 2024-2025 academic year. My main interests are Causal Inference and Machine Learning.
 
-- Research Projects
--======
-- Does Titling Lead to Lower Deforestation? Evidence from Brazil
+I have worked in a variety of projects requiring a wide range of skills. As a senior in undergrad I won an econometrics competition applying synthetic controls. In my PhD research I worked with Causal ML, DiD, IV and Machine Learning tools in settings with large geospatial datasets. In addition I was a Causal Inference intern at Wayfair where I developed a new inference appraoch with lower variance and Applied Science intern at Amazon where I fine-tuned and deployed LLMs. 
 
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publications/2010-10-01-paper-title-number-2
-venue: "Journal 1"
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-paperurl: http://academicpages.github.io/files/paper2.pdf
-citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
+
