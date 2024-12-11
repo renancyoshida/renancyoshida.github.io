@@ -21,7 +21,7 @@ repository               : "renancyoshida.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jm-photo1.jpg"
+  avatar           : "jm-photo-cropped.jpg"
   name             : "Renan Chaves Yoshida"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
