@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am PhD Candidate in Economics at Stanford University. I will be on the job market for the 2024-2025 academic year.
+Hi! I am a PhD Candidate in Economics at Stanford University. I will be on the job market for the 2024-2025 academic year. My main interests are Causal Inference and Machine Learning.
 
